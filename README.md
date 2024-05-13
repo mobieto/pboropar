@@ -1,5 +1,5 @@
 # CO2104 User Interface and Design Assignment 2
-Mobin Hosseini (mh675) submission
+mh675 submission
 
 # Getting Started with Create React App
 
